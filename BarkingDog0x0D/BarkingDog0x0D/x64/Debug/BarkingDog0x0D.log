@@ -1,0 +1,9 @@
+﻿  BOJ18808.cpp
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x0D\BarkingDog0x0D\BOJ18808.cpp(56,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x0D\BarkingDog0x0D\BOJ18808.cpp(57,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x0D\BarkingDog0x0D\BOJ18808.cpp(101,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x0D\BarkingDog0x0D\BOJ18808.cpp(102,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x0D\BarkingDog0x0D\BOJ18808.cpp(113,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x0D\BarkingDog0x0D\BOJ18808.cpp(114,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x0D\BarkingDog0x0D\BOJ18808.cpp(98): warning C4715: 'search': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  BarkingDog0x0D.vcxproj -> C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x0D\x64\Debug\BarkingDog0x0D.exe

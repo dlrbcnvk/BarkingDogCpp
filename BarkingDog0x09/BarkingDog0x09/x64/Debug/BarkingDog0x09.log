@@ -1,0 +1,4 @@
+﻿  BOJ4179.cpp
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x09\BarkingDog0x09\BOJ4179.cpp(37,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x09\BarkingDog0x09\BOJ4179.cpp(55,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BarkingDog0x09.vcxproj -> C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x09\x64\Debug\BarkingDog0x09.exe

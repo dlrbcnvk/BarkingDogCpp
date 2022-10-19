@@ -1,0 +1,5 @@
+﻿  BOJ1654.cpp
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x13\BarkingDog0x13\BOJ1654.cpp(26,20): warning C4244: '+=': 'll'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x13\BarkingDog0x13\BOJ1654.cpp(33,9): warning C4244: '=': 'll'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x13\BarkingDog0x13\BOJ1654.cpp(34,10): warning C4244: '=': 'll'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BarkingDog0x13.vcxproj -> C:\Users\dlrbc\source\repos\AlgorithmPractice\BarkingDog0x13\x64\Debug\BarkingDog0x13.exe
